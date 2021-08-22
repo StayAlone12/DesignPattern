@@ -17,8 +17,4 @@ public class Singleton_05 {
 	private static class SingleHolder {
 		private static Singleton_05 INSTANCE = new Singleton_05();
 	}
-	
-	public static void main(String[] args) {
-		Singleton_05.getInstance();
-	}
 }
