@@ -1,6 +1,3 @@
-# hello-word
+# 设计模式 code
 
-Hi Humans!
-
-StayAlone likes Java and C#, he want to learn something about them. 
-This is first day StayAlone login GitHub.
+大话设计模式源码，部分自己的理解
